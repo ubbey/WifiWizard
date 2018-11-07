@@ -12,7 +12,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-package com.vence.wifiwizard;
+package com.ubbey.wifiwizard;
 
 import org.apache.cordova.*;
 import java.util.List;

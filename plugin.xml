@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	id="com.vence.wifiwizard"
+	id="com.ubbey.wifiwizard"
 	version="0.2.11">
 
     <name>WifiWizard</name>
